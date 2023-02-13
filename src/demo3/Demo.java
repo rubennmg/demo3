@@ -6,5 +6,7 @@ public class Demo {
 		System.out.println("Primera carga");
 		/* Cambio desde la rama2 */
 		System.out.println("Cambio desde la rama2");
+		/* Cambio desde master */
+		System.out.println("Cambio desde master");
 	}
 }
